@@ -7,7 +7,7 @@ def user_details():
     if (correct == 'y' or correct == 'Y'):
         print("user_details stored")
     else:
-        print("please reEnter")
+        print("please ReEnter")
         return user_details()
 
 
