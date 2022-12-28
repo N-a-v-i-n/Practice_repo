@@ -4,3 +4,4 @@ How to Push code to git hub
  3. git commit -m "commit_name"
  4. git remote add orgin https://github.com/N-a-v-i-n/Practice_repo.git
  5. git branch -M main
+ 6. git push -u origin main
